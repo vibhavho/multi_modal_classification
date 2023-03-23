@@ -2,8 +2,6 @@
 
 This repository houses the official PyTorch implementation of USC's EE 641 (Deep Learning System) final project.
 
-All the modules have been well-documented and are self-explanatory. However, for any clarifications regarding the code published here, please feel free to reach out to me at <maharana@usc.edu> with the subject line as "EE 641 Project", for consideration.
-
 ## Abstract 
 The primary target in supervised machine learning is to model the discriminative probability p(y|x). 
 However, in the process of doing so, data samples often contain "irrelevant" factors that could mislead the model in the estimation. 

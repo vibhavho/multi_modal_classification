@@ -10,7 +10,7 @@ and present an adversarial invariance approach, and propose a feature extraction
 
 
 ## Installation 
-    $ git clone https://github.com/sarthaxxxxx/EE641-Project.git
+    $ git clone https://github.com/vibhavho/multi_modal_classification.git
     $ cd EE641-Project/
     $ pip install requirements.txt
     

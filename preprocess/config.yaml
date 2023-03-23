@@ -1,0 +1,14 @@
+params:
+  data: '/ifs/loni/faculty/shi/spectrum/Student_2020/sarthak/EE_641/data/raw'
+  ckpt: '/ifs/loni/faculty/shi/spectrum/Student_2020/sarthak/EE_641/preprocess/models/ckpt'
+  processed: '/ifs/loni/faculty/shi/spectrum/Student_2020/sarthak/EE_641/data/processed'
+  crop_size: (64, 64)
+  model: convlstm # 3dcnn and convlstm
+  train: True
+  seed: 42
+  num_workers: 4
+  epochs: 50
+  lr: 0.0001
+  optim: adam
+  loss: mse
+  data_aug: True

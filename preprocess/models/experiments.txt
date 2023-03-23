@@ -1,0 +1,8 @@
+# list of params that reached convergence.
+
+model: 3dcnn
+lr: 0.0001
+optim: adam
+loss: mse
+weight_decay: 1e-8
+StepLR(optimiser, step_size = 1, gamma = 0.5)

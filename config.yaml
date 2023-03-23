@@ -1,0 +1,29 @@
+params:
+  data: '/ifs/loni/faculty/shi/spectrum/Student_2020/sarthak/EE_641/data/processed'
+  ckpt: '/ifs/loni/faculty/shi/spectrum/Student_2020/sarthak/EE_641/ckpt'
+  model: 'UAI'
+  pre_model: 'convlstm'
+  spks: 19
+  type: 'visual' # available: visual, xvec, multi.
+  evaluation: 'seen' # seen and unseen
+  train_test: 0.9
+  train: True
+  seed: 42
+  epochs: 50
+  batch_size: 8
+  num_workers: 4
+  num_adv_updates: 5
+  main_lr: 1e-4
+  adv_lr: 1e-3
+  decay: 1e-4
+  lr_decay: False
+  emb_dim_1: 128
+  emb_dim_2: 64
+  dropout: 0.8
+  alpha: 100
+  beta: 0.5
+  gamma: 1
+  lr_decay_flag: True
+  save_val_embeddings: True
+  save_test_embeddings: True
+  data_augmentation: True

@@ -43,6 +43,6 @@ MIT License
 
 
 ## Contacts
+  Vibhav Hosahalli Venkataramaiah - email: vibhavho@usc.edu \
   Sarthak Kumar Maharana - email: maharana@usc.edu \
-  Vibhav HV - email: vibhavho@usc.edu \
   Gopi Maganti - email: gmaganti@usc.edu

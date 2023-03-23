@@ -1,4 +1,4 @@
-#Understanding Multi-Modal Speaker Recognition via Disentangled Representation Learning
+##Understanding Multi-Modal Speaker Recognition via Disentangled Representation Learning
 This repository houses the official PyTorch implementation of USC's EE 641 (Deep Learning System) final project.
 
 Abstract
